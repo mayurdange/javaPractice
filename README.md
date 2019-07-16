@@ -1,1 +1,1 @@
-# javaPractice
+![Build Status](https://travis-ci.com/mayurdange/javaPractice.svg?branch=master)
