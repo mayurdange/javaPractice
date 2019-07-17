@@ -12,7 +12,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 public class ListIntersectionTest {
-    private static final long EXPECTED_DURATION = TimeUnit.NANOSECONDS.convert(40, TimeUnit.MILLISECONDS);
+    private static final long EXPECTED_DURATION = TimeUnit.NANOSECONDS.convert(150, TimeUnit.MILLISECONDS);
     private ListIntersection listIntersection = new ListIntersection();
     private static final int MAX_ARR = 10000;
 
