@@ -11,6 +11,6 @@ public class ListIntersection {
 
     h1.retainAll(h2);
     List<String> l1 = new ArrayList<String>(h1); 
-      return l1;
+    return l1;
     }
 }
